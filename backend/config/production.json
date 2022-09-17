@@ -1,0 +1,5 @@
+{
+
+    "mongoURL":"mongodb+srv://waheed:waheed123@cluster0.you06li.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "waheed-jwt-secret"
+}
